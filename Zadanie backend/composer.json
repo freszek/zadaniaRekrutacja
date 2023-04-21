@@ -1,0 +1,14 @@
+{
+    "name": "adamkloc/backend",
+    "description": "Zadanie rekrutacyjne backend",
+    "authors": [
+        {
+            "name": "freszek",
+            "email": "93795323+freszek@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.12",
+        "illuminate/database": "^8.0"
+    }
+}
